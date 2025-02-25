@@ -5,8 +5,4 @@ mirushhhhhhhhhhhhhhhhhhhhhhhh
 
 secret text----
 
-<<<<<<< HEAD
- big struct{miri}
-=======
 struct{}
->>>>>>> d129d7cceb6949836b584e6893aacabfc0c1bbad
